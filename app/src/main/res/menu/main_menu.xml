@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/leak_example_id_1"
+        android:title="@string/leak_example_1" />
+    <item
+        android:id="@+id/leak_example_id_2"
+        android:title="@string/leak_example_2" />
+    <item
+        android:id="@+id/leak_example_id_3"
+        android:title="@string/leak_example_3" />
+    <item
+        android:id="@+id/leak_example_id_4"
+        android:title="@string/leak_example_4" />
+</menu>
